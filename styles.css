@@ -10,9 +10,16 @@
 	
 		}
 
-p{
+.heading{
 
 	font-size: 20px;
+	
+	
+}
+
+p {
+     font-size: 20px;
 	color: white;
 	text-decoration: underline;
 }
+
